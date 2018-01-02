@@ -1,1 +1,1 @@
-# Codeigntier-Learning-For-Beginer-CI_LAP-
+# Tôi giới thiệu về lập trình codeigniter hay được gọi là CI dev. 
