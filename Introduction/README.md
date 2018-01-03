@@ -65,8 +65,8 @@ Tools:
 -------------------------------------------------
  Server
     Xampp : vitrual server. trên PC, MAC, UBUNTU.
-    https://www.apachefriends.org/index.html
-    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/
+    ####https://www.apachefriends.org/index.html
+    ####[Xampp 5.4.x Dowload](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/)
     bản xampp nó sử dụng PHP 5.4.31 (cli) (built: Jul 23 2014 20:20:15).
     Apache ...Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31
 -----------------------------------------------------
@@ -92,5 +92,8 @@ DATABASE
 
     Winscp / FTP: 
     Putty //
+
+
+
     Notepad++
     Notepad
