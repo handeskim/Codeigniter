@@ -1,23 +1,23 @@
-Giới Thiệu về PHP, CI, Tools
+###Giới Thiệu về PHP, CI, Tools
 
-Giới thiệu về PHP.
-    là một ngôn ngữ lập trình trên nền tảng webserver.
-    Dễ dàng phát triển, học tập.
-    Công việc nhiều.
-    mức lương cao. (master). (leader) (senior). (800$-1500$).
-    Beginer Deverloper 1 year skill(300$-400$).
-    Cộng đồng phát triển lớn, nhiều. 
-    http://www.php.net/
-Giới Thiệu về Codeigniter.
-    https://codeigniter.com/
-    dễ dàng học và phát triển.
-    dành cho các dự án nhỏ và vừa.
-    xaây dựng hệ thoống back-end.
+###Giới thiệu về PHP.
+    -là một ngôn ngữ lập trình trên nền tảng webserver.
+    -Dễ dàng phát triển, học tập.
+    -Công việc nhiều.
+    -mức lương cao. (master). (leader) (senior). (800$-1500$).
+    -Beginer Deverloper 1 year skill(300$-400$).
+    -Cộng đồng phát triển lớn, nhiều. 
+    -http://www.php.net/
+###Giới Thiệu về Codeigniter.
+    -https://codeigniter.com/
+    -dễ dàng học và phát triển.
+    -dành cho các dự án nhỏ và vừa.
+    -xaây dựng hệ thoống back-end.
 
-Font-end: lập trình giao diện dưới client.html. css. jquery, javascript. dành cho phía client. (PC nó chạy browser.)
-back-end: lập trình điều khiển trên server
-CodeIgniter 2.x
-Codeigniter sử dụng mô hình MVC:
+######Font-end: lập trình giao diện dưới client.html. css. jquery, ######javascript. dành cho phía client. (PC nó chạy browser.)
+######back-end: lập trình điều khiển trên server
+######CodeIgniter 2.x
+######Codeigniter sử dụng mô hình MVC:
 
     Module: tính toán xử lý dữ liệu hoặc xử lý chương trình. trên hệ thống. 
     View: hiển thị dữ liệu ra
@@ -60,17 +60,17 @@ Apps
     View
 
 
-Tools:
+###Tools:
    
 -------------------------------------------------
- Server
+ #####Server
     Xampp : vitrual server. trên PC, MAC, UBUNTU.
     ####https://www.apachefriends.org/index.html
     ####[Xampp 5.4.x Dowload](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/)
     bản xampp nó sử dụng PHP 5.4.31 (cli) (built: Jul 23 2014 20:20:15).
     Apache ...Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31
 -----------------------------------------------------
-DATABASE
+#####DATABASE
     Mysql  ...5.5.39 - MySQL Community Server (GPL)/ Version : 4.2.7.1, 
     Mariadb:..
 
