@@ -6,7 +6,7 @@
             - [w3schools.com](https://www.w3schools.com/php/default.asp)
         .html .css .dll .aspx. .py .rb .java .php
         
-        Tham khảo ở [lession bài 1]()
+        Tham khảo ở [lession bài 1](https://github.com/handeskim/PHP-programming-vietnamese/blob/master/PHP_environments_work/lession/bai_1.php)
 
         2) PHP nâng cao:
             lớp, đối tượng, trừu tượng.
